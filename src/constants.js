@@ -1,0 +1,1 @@
+export const GET_USER_API  = 'https://mocki.io/v1/a6d1725c-3508-45ed-b3b8-823ee4584801'
